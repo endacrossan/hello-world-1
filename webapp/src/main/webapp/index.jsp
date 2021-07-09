@@ -4,3 +4,4 @@
 <h2> New line added to test automation.... EC 17.15  July 7th</h2>
 <h2> New line added to test automation.... EC 17.26  July 7th</h2>
 <h2> New line added to test automation.... EC 17.37  July 7th</h2>
+<h2> Checking security group for CI/CD </h2>
